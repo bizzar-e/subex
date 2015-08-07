@@ -1,0 +1,4 @@
+"\x{00e2}" does not map to cp866 at D:\ElectricCommander\src\ectool.pl line 468.
+"\x{0080}" does not map to cp866 at D:\ElectricCommander\src\ectool.pl line 468.
+"\x{0093}" does not map to cp866 at D:\ElectricCommander\src\ectool.pl line 468.
+Can't call method "findnodes_as_string" on an undefined value at C:\sublime\Data\Packages\User\Meta\pl\run_dsl.pl line 127.

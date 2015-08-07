@@ -1,0 +1,80 @@
+stage 1 started. Initiate call toc:\sublime\Data\Packages\User\Meta\pl\ec_parser.pl
+Stage is 1
+Perl executed C:\sublime\Data\Packages\User\Meta\pl\uc_scratch_template.pl                
+
+print'AAA';
+
+  nil nil
+stage 1 is over
+Stage is 1
+Commands from parser: C:\sublime\Data\Packages\User\Meta\pl\uc_scratch_template.pl                
+
+print'AAA';
+
+  nil nil
+Params from parser >> C:\sublime\Data\Packages\User\Meta\pl\uc_scratch_template.pl
+Params from parser >> 
+Params from parser >> 
+Params from parser >> 
+Params from parser >> 
+Params from parser >> 
+Params from parser >> 
+Params from parser >> 
+Params from parser >> 
+Params from parser >> 
+Params from parser >> 
+Params from parser >> 
+Params from parser >> 
+Params from parser >> 
+Params from parser >> 
+Params from parser >> 
+Params from parser >> 
+
+print'AAA';
+
+
+Params from parser >> 
+Params from parser >> nil
+Params from parser >> nil
+c[0] C:\sublime\Data\Packages\User\Meta\pl\uc_scratch_template.pl
+c[1] 
+c[2] 
+c[3] 
+argv   
+stage 2 started. Initiate call toC:\sublime\Data\Packages\User\Meta\pl\uc_scratch_template.pl
+Stage is 2
+Perl executed 
+
+DEBUG
+
+
+
+3
+
+arg1 ' '
+
+arg2 '  '
+
+arg3 'arg2'
+
+$ARGV[1] is   
+
+
+
+
+
+
+
+$logpath is N:\job_3763_20150806130736\
+
+
+
+
+
+Elapsed time: 3.39 s
+
+Done
+
+
+Result received in ~4000 ms
+Number of view: 1

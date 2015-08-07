@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<responses version="2.3" dispatchId="1374739" nodeId="192.168.2.83">
+  <response requestId="2" nodeId="192.168.2.83">
+    <project>
+      <projectId>72baacb9-3b7f-11e5-9fb9-005056bb5c58</projectId>
+      <projectName>scratch_prj</projectName>
+      <createTime>2015-08-05T14:37:07.473Z</createTime>
+      <description>Scratch project for ec-perl script</description>
+      <lastModifiedBy>admin</lastModifiedBy>
+      <modifyTime>2015-08-05T14:37:07.473Z</modifyTime>
+      <owner>admin</owner>
+      <propertySheetId>72bad3cb-3b7f-11e5-9fb9-005056bb5c58</propertySheetId>
+    </project>
+  </response>
+  <advisory>
+    <advisoryMessage>Your current Commander configuration is NOT supported for production use. You must configure an external database to replace the Commander-supplied (Built-in) database. For more information, see the ElectricCommander Installation Guide.</advisoryMessage>
+  </advisory>
+</responses>
